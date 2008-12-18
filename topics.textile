@@ -1,0 +1,25 @@
+h1. TDD - Driven Development
+
+h2. Three Laws
+ - You may not write production code until you ahve written a failing unit test.
+ - You may not write more of a unit test than is suffcient to fail, and not compiling is failing
+ - You may not write more production cod than is sufficient to pass the currelty failing test.
+
+h2. Clean tests
+ - readability
+ - FIRST
+  - Fast
+  - Repeatable
+  - Self-validating
+  - Timely
+
+h3. JUnit / TestNG
+
+h3. Classicist / Mockist
+
+h3. Mocking
+ - JMock
+ - Flexmock	
+ - Mockito
+
+h3. ????
