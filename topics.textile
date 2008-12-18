@@ -8,10 +8,11 @@ h2. Three Laws
 h2. Clean tests
 * readability
 * FIRST
-  # Fast
-  # Repeatable
-  # Self-validating
-  # Timely
+## Fast
+## Independent
+## Repeatable
+## Self-validating
+## Timely
 
 h3. JUnit / TestNG
 
@@ -20,8 +21,8 @@ h3. Classicist / Mockist
 h3. Stubs vs. Mocks
 
 h3. Mocking
- # JMock
- # Flexmock	
- # Mockito
+# JMock
+# Flexmock	
+# Mockito
 
 h3. ????
