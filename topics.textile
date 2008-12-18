@@ -17,6 +17,8 @@ h3. JUnit / TestNG
 
 h3. Classicist / Mockist
 
+h3. Stubs vs. Mocks
+
 h3. Mocking
  - JMock
  - Flexmock	
